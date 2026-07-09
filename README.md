@@ -9,3 +9,5 @@ Este repositório contém a resolução do **segundo** trabalho prático da disc
 ## Os conceitos envolvidos
 
 ## Tarefas
+
+### As perguntas que precisamos responder
