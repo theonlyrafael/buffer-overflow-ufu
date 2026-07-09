@@ -8,4 +8,4 @@ Este repositório contém a resolução do **segundo** trabalho prático da disc
 
 ## Os conceitos envolvidos
 
-## Tarefas a serem realizadas
+## Tarefas
