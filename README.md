@@ -13,3 +13,5 @@ Este repositório contém a resolução do **segundo** trabalho prático da disc
 ### As perguntas que precisamos responder
 
 ## Como organizamos a resolução
+
+## Conclusão
