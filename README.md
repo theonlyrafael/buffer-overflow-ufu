@@ -7,3 +7,5 @@ Este repositório contém a resolução do **segundo** trabalho prático da disc
 ## Como o exercício foi montado
 
 ## Os conceitos envolvidos
+
+## Tarefas a serem realizadas
