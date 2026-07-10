@@ -1,0 +1,25 @@
+# Diretório de compilação
+build/
+
+# Arquivos compilados
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+
+# Arquivos gerados após falhas e depuração
+core
+core.*
+.gdb_history
+
+# Arquivos temporários de editores
+*.tmp
+*.swp
+*~
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
